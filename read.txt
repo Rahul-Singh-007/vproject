@@ -1,0 +1,9 @@
+ "start" : "node src/app.js",
+    "dev" :  "nodemon src/app.js"
+
+    in package.json file
+
+    now run npm run dev
+    app will automatically run
+
+    express.json() // middleware
